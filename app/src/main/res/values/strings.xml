@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIc Tac Toe</string>
+    <string name="Heading">Welcome to Sarthak Chaudhary Tic-Tac-Toe</string>
+    <string name="Grid">Our Main Grid</string>
+</resources>
